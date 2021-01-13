@@ -6,3 +6,5 @@ import "./styles/styles.scss";
 
 //
 ReactDOM.render(<IndecisionApp />, document.getElementById("app"));
+
+// Main
